@@ -1,0 +1,15 @@
+{
+  "trainer": {
+    "lvl": 10,
+    "itens": [],
+    "pokemon": [{
+      "nome": "",
+      "moves":[]
+    }]
+  },
+  "calendario": {
+    "tempoEmDias": 10,
+    "localizacoes": [],
+    "justEncouter": true
+  }
+}
